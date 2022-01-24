@@ -1,0 +1,14 @@
+img{
+    height: 300px;
+    width: auto;
+}
+h1{
+    background-color: teal;
+    color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+button{
+    background-color: coral;
+}
