@@ -12,9 +12,11 @@ h1{
     font-weight: bold;
     padding: 15px;
     border: 3px solid black;
+    margin-left: -3px;
 }
-div{
+.main{
     background-color: rgb(204, 0, 68);
+    border: 3px solid black;
     
 }
 button{
@@ -24,6 +26,8 @@ button{
     font-size: 14px;
     padding: 5px;
     display: flex;
+    border-radius: 20px;
+    border: 3px solid black;
 }
 
 .flex{
@@ -39,6 +43,10 @@ button{
 }
 h3{
     text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
 }
 
 
