@@ -1,14 +1,44 @@
 img{
     height: 300px;
     width: auto;
+    margin-top: -36px;
+    border: 3px solid black;
 }
 h1{
-    background-color: teal;
-    color: bisque;
+    background-color: rgb(245, 104, 151);
+    color: rgb(73, 70, 69);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 50px;
     font-weight: bold;
+    padding: 15px;
+    border: 3px solid black;
+}
+div{
+    background-color: rgb(204, 0, 68);
+    
 }
 button{
-    background-color: coral;
+    background-color: rgb(165, 144, 136);
+    display: block;
+    margin: 1em;
+    font-size: 14px;
+    padding: 5px;
+    display: flex;
 }
+
+.flex{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    text-align: center;
+}
+
+
